@@ -16,7 +16,10 @@ namespace Hello
 
             if (HoursOfSleep > 8)
             {
+
                 Console.WriteLine("You are well rested");
+                Console.ReadLine();
+
             }
             else
             {
